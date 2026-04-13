@@ -2,7 +2,6 @@
 - 👀 I’m interested in C#,ASP.Net,Web Designing, SQL , AI Machine Learning
 - 🌱 I’m currently learning E-Commerce Websites , Shopify , WooCommerce Wordpress
 - 💞️ I’m looking to collaborate on Website Development, Enterprise Systems , Front End and Back End task
-- 📫 How to reach me radcot326@gmail.com
 - ⚡ Fun fact: I like computer games
 
 <!---
