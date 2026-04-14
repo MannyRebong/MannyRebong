@@ -9,6 +9,16 @@
 
 Currently Creating new repositories for my new projects
 
+🧰 Tech Stack
+- ASP.NET
+- Python
+- Java
+- PHP
+- TypeScript
+- React
+- Next.js
+- Vue.js
+
 <!---
 El Rebong/El Rebong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
